@@ -1,4 +1,4 @@
-# report-by-power-pi
+# report-by-power-bi
 
 The difference between a dashboard and a report. 
 
